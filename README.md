@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Metacrafters solana course module 2 challenge 3
+**Phantom Wallet Challenge**
+Your challenge is: **add a button to disconnect from the Phantom Wallet.**
+
+Here are the steps to follow:
+
+1. Complete the previous lessons and create a “Connect” button for Phantom Wallet connection.
+
+2. Once you are connected, you should be able to see an address on the screen - which is the address of the current connected account.
+
+3. Add a Disconnect button functionality - a button on the top right side of the screen.
+
+4. Upon clicking this button, you should be disconnected from the current Phantom wallet instance and the “Connect” button should re-appear.
+
 
 ## Getting Started
 
