@@ -1,5 +1,7 @@
 Metacrafters solana course module 2 challenge 3
+
 **Phantom Wallet Challenge**
+
 Your challenge is: **add a button to disconnect from the Phantom Wallet.**
 
 Here are the steps to follow:
